@@ -1,0 +1,24 @@
+Package: toy
+Type: Package
+Title: a little try
+Version: 0.1.0
+Date: 2017-09-12
+Author: Robin Luo
+Maintainer: Robin Luo <robin.luo@blackwoodseven.com>
+Authors@R: c(
+    person("Robin", "L", email = "robin.luo@blackwoodseven.com", role = "cph"))
+Description: A little data query tool. Connect to MySQL.
+License: GPL
+Encoding: UTF-8
+ByteCompile: no
+Suggests:
+    testthat
+Imports:
+    RMySQL
+RoxygenNote: 6.0.1
+
+
+
+
+
+
