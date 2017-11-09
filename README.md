@@ -3,8 +3,9 @@ play
 
 For fun
 
-
+```
 Options:
+
     -i INTEGER, --client_id=INTEGER
         client account id
 
@@ -37,3 +38,4 @@ Options:
 
     -h, --help
         Show this help message and exit
+```
